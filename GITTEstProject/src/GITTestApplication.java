@@ -4,6 +4,6 @@ public class GITTestApplication {
 		// TODO Auto-generated method stub
 		System.out.println("HelloWorld");
 		System.out.println("HelloWorld This is Fun");
-		System.out.println("HelloWorld This is Fun Again");
+		System.out.println("HelloWorld This is Really Fun Again");
 	}
 }
